@@ -1,0 +1,21 @@
+zoneId,zoneCode,zoneCodeAlias,zoneName,regionCode,regionName,notificationTarget,latitude,longitude,zoneImage
+38,NCR,null,National Capital Region,NORTH,North India,indents_ncr,28.4230905,76.9195375,https://imgur.com/HjHEEL7.png
+39,PUN,null,Pune,WEST,West India,indents_pune,18.5247663,73.7927556,https://imgur.com/ND4QJOH.png
+40,CHN,null,Chennai,SOUTH,South India,indents_chennai,13.0478221,80.0685835,https://imgur.com/aocR37Z.png
+41,BLR,null,Bengaluru & Mysuru,SOUTH,South India,indents_mysore,12.9542944,77.4905112,https://imgur.com/A17YCzN.png
+42,KOL,null,Kolkata,EAST,East India,indents_kolkata,22.6757521,88.0495433,https://imgur.com/KiJnEpu.png
+43,AHM,null,Ahmedabad,WEST,West India,indents_ahmedabad,23.0204978,72.4396585,null
+45,COI,null,Coimbatore,SOUTH,South India,indents_coimbatore,11.0117016,76.8971949,https://imgur.com/GrayKbv.png
+46,MDR,null,Madurai,SOUTH,South India,indents_madurai,9.9252007,78.1197753,https://imgur.com/3CSKNdE.png
+47,MUM,null,Mumbai,WEST,West India,indents_bhiwandi,19.0825223,72.7411019,https://imgur.com/HF55JZN.png
+48,HYD,null,Hyderabad,SOUTH,South India,indents_hyderabad,17.4126274,78.2679612,https://imgur.com/LO3rrk2.png
+51,NPR,null,Nagpur,SOUTH,South India,null,21.1458004,79.0881546,https://imgur.com/xQ7CPVP.png
+52,VJW,null,Vijayawada,SOUTH,South India,null,16.5102442,80.6098648,null
+56,GWH,null,Guwahati,EAST,East India,null,26.1524405,91.71940959,https://imgur.com/p14EhRG.png
+57,SLG,null,Siliguri,EAST,East India,null,26.71475464,88.43028123,null
+62,KNP,null,Kanpur,NORTH,North India,null,26.435468,80.34353,null
+65,PTN,null,Patna,NORTH,North India,null,25.6080144,85.0606425,null
+66,VPI,null,Vapi,WEST,West India,null,20.3804846,72.8359627,null
+70,IDR,null,Indore,WEST,West India,null,22.7239515,75.7812777,https://i.imgur.com/yOrRfnb.jpg
+62,KNP,null,Kanpore,NORTH,North India,null,26.435468,80.34353,https://i.imgur.com/yOrRfnb.jpg
+68,JPR,null,Jaipur,NORTH,North India,null,26.8851869,75.7081575,https://i.imgur.com/yOrRfnb.jpg
