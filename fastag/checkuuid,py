@@ -1,0 +1,10 @@
+import pandas as pd
+vehicles = pd.read_csv(r'C:\Users\HP\Documents\Raaho\fasttag\data\suppliers_vehicles.csv')
+fav_lane = pd.read_csv(r'C:\Users\HP\Documents\Raaho\fasttag\data\suppliers_favlanes.csv')
+vehicles['owner_uuid'] = vehicles['owner_uuid'].astype(str).str.strip().str.upper()
+fav_lane['suppliercompany_uuid'] = fav_lane['suppliercompany_uuid'].astype(str).str.strip().str.upper()
+common_uuids = set(fav_lane['suppliercompany_uuid']).intersection(set(vehicles['owner_uuid']))
+print(f"Common UUIDs: {len(common_uuids)}")
+print(f"Sample suppliercompany_uuid: {fav_lane['suppliercompany_uuid'].head().tolist()}")
+print(f"Sample owner_uuid: {vehicles['owner_uuid'].head().tolist()}")
+print(f"Sample reg_no in vehicles: {vehicles['reg_no'].head().tolist()}")

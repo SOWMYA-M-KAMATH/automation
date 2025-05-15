@@ -1,2 +1,0 @@
-Supplier UUID,name,pan,owner_name,owner_number,favourite_places,favorite_zones,reg_no,Top_Zone_1,Reach_Time_1,transaction_date_time,Time_Difference,TCellID,DCellID,TDCellID
-fallback_uuid,Fallback Supplier,ABCDE1234F,John Doe,1234567890,Zone1,Zone1,REG_FALLBACK,Zone1,5.0,2025-04-24,10.0,T1,D1,T1D1
